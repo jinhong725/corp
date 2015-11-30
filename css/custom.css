@@ -1,0 +1,14 @@
+img.center {
+	margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.portfolio-modal h5 {
+	text-align: left !important;
+}
+
+article {
+	text-align: left !important;
+	text-indent: 20px;
+}
