@@ -416,6 +416,13 @@
                         <p class="text-muted">Co-founder, CTO</p>
                     </div>
                 </div>
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/team/jin_hong.png" class="img-responsive img-circle" alt="">
+                        <h4>Jin Hong</h4>
+                        <p class="text-muted">Linux System Administrator</p>
+                    </div>
+                </div>
                 <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/adal_wulf.png" class="img-responsive img-circle" alt="">
@@ -464,28 +471,21 @@
                         <h4>Gool Wulf</h4>
                         <p class="text-muted">IONIC Developer</p>
                     </div>
-                </div> -->
-                <div class="col-sm-4">
-                    <div class="team-member">
-                        <img src="img/team/jin_hong.png" class="img-responsive img-circle" alt="">
-                        <h4>Jin Hong</h4>
-                        <p class="text-muted">AWS Expert</p>
-                    </div>
-                </div>
-                <div class="col-sm-4">
+                </div> -->                
+                <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/lena_bach.png" class="img-responsive img-circle" alt="">
                         <h4>Lena Bach</h4>
                         <p class="text-muted">Android Developer</p>
                     </div>
-                </div>
-                <!-- <div class="col-sm-4">
+                </div> -->
+                <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/linus_koch.png" class="img-responsive img-circle" alt="">
                         <h4>Linus Koch</h4>
                         <p class="text-muted">Android Firmware Expert</p>
                     </div>
-                </div> -->
+                </div>
                 <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/lotta_dietrich.png" class="img-responsive img-circle" alt="">
