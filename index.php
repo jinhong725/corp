@@ -430,13 +430,13 @@
                         <p class="text-muted">Lead Developer</p>
                     </div>
                 </div> -->
-                <!-- <div class="col-sm-4">
+                <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/arimon_frank.png" class="img-responsive img-circle" alt="">
                         <h4>Arimon Frank</h4>
                         <p class="text-muted">Lead Developer</p>
                     </div>
-                </div> -->
+                </div>
                 <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/amelie_berg.png" class="img-responsive img-circle" alt="">
@@ -493,13 +493,13 @@
                         <p class="text-muted">IOS Developer</p>
                     </div>
                 </div> -->
-                <div class="col-sm-4">
+                <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/max_adler.png" class="img-responsive img-circle" alt="">
                         <h4>Max Adler</h4>
                         <p class="text-muted">V/A Chatting Expert</p>
                     </div>
-                </div>
+                </div> -->
                 <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/mila_eichel.png" class="img-responsive img-circle" alt="">
@@ -507,20 +507,20 @@
                         <p class="text-muted">Linux Administrator</p>
                     </div>
                 </div> -->
-                <!-- <div class="col-sm-4">
+                <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/nick_baum.png" class="img-responsive img-circle" alt="">
                         <h4>Nick Baum</h4>
                         <p class="text-muted">Linux Kernel Developer</p>
                     </div>
-                </div> -->
-                <div class="col-sm-4">
+                </div>
+                <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/tim_amsel.png" class="img-responsive img-circle" alt="">
                         <h4>Tim Amsel</h4>
                         <p class="text-muted">Social Network Expert</p>
                     </div>
-                </div>
+                </div> -->
             </div>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
