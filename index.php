@@ -479,13 +479,13 @@
                         <p class="text-muted">Android Developer</p>
                     </div>
                 </div> -->
-                <div class="col-sm-4">
+                <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/linus_koch.png" class="img-responsive img-circle" alt="">
                         <h4>Linus Koch</h4>
                         <p class="text-muted">Android Firmware Expert</p>
                     </div>
-                </div>
+                </div> -->
                 <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/lotta_dietrich.png" class="img-responsive img-circle" alt="">
