@@ -228,7 +228,7 @@
                         <p class="text-muted">ROR, shoping, credit card, signup with facebook</p>
                     </div>
                 </div>
-                <div class="col-md-4 col-sm-6 portfolio-item">
+                <!-- <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#web_billsync" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
@@ -242,7 +242,7 @@
                         <p class="text-muted">ROR, Payment, REST API, auto pay, Mail, SMS<br>
                             We provide a video about this project. It will help you to understand more.</p>
                     </div>
-                </div>
+                </div> -->
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#awsservice" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
@@ -681,7 +681,7 @@
     </div>
 
     <!-- Portfolio Modal 2 -->
-    <div class="portfolio-modal modal fade" id="web_billsync" tabindex="-1" role="dialog" aria-hidden="true">
+    <!-- <div class="portfolio-modal modal fade" id="web_billsync" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
@@ -719,7 +719,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Portfolio Modal 3 -->
     <div class="portfolio-modal modal fade" id="awsservice" tabindex="-1" role="dialog" aria-hidden="true">
