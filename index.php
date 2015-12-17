@@ -437,13 +437,13 @@
                         <p class="text-muted">Lead Developer</p>
                     </div>
                 </div> -->
-                <!-- <div class="col-sm-4">
+                <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/amelie_berg.png" class="img-responsive img-circle" alt="">
                         <h4>Amelie Berg</h4>
                         <p class="text-muted">Service Manager</p>
                     </div>
-                </div> -->
+                </div>
                 <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/adolf_miller.png" class="img-responsive img-circle" alt="">
