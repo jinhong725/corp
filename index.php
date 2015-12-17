@@ -441,7 +441,7 @@
                     <div class="team-member">
                         <img src="img/team/amelie_berg.png" class="img-responsive img-circle" alt="">
                         <h4>Amelie Berg</h4>
-                        <p class="text-muted">Service Manager</p>
+                        <p class="text-muted">Hybrid developer</p>
                     </div>
                 </div>
                 <!-- <div class="col-sm-4">
@@ -504,7 +504,7 @@
                     <div class="team-member">
                         <img src="img/team/mila_eichel.png" class="img-responsive img-circle" alt="">
                         <h4>Mila Eichel</h4>
-                        <p class="text-muted">Linux Administrator</p>
+                        <p class="text-muted">Mobile programmer</p>
                     </div>
                 </div>
                 <!-- <div class="col-sm-4">
