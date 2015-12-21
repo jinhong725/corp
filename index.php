@@ -325,7 +325,7 @@
                                     <h4 class="subheading">Our Humble Beginnings</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Linus and Armen had been friends in Universität Hamburg. They had both been interested in Linux security. They kept in touch after graduation, and decided to design a new Secure Linux Service based on SELinux. Their service had been accepted as very robust at Web port attack from serveral companies.</p>
+                                    <p class="text-muted">Linus and Theo had been friends in Universität Hamburg. They had both been interested in Linux security. They kept in touch after graduation, and decided to design a new Secure Linux Service based on SELinux. Their service had been accepted as very robust at Web port attack from serveral companies.</p>
                                 </div>
                             </div>
                         </li>
@@ -412,7 +412,7 @@
                 <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/armen_diprizio.png" class="img-responsive img-circle" alt="">
-                        <h4>Armen Diprizio</h4>
+                        <h4>Theo Braun</h4>
                         <p class="text-muted">Co-founder, CTO</p>
                     </div>
                 </div>
