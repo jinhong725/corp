@@ -250,13 +250,14 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/aws.gif" class="img-responsive" alt="">
+                        <img src="img/portfolio/linux/aws_preview.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>AWS Service</h4>
-                        <p class="text-muted">Amazon EC2, Amazon S3, Amazon RDS, Amazon VPC, Amazon API Gateway, Amazon Mobile Hub, Amazon DynamoDB, Elastic Load Balancing, ...</p>
+                        <p class="text-muted">Amazon EC2, Amazon S3, Amazon RDS, Amazon VPC...</p>
                     </div>
                 </div>
+                
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#ios_storyteller" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
@@ -264,27 +265,14 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/storyteller_preview.gif" class="img-responsive center" alt="">
+                        <img src="img/portfolio/ios/storyteller/storyteller_preview.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Storyteller</h4>
-                        <p class="text-muted">Obj c, bubble message, Facebook, Video...</p>
+                        <p class="text-muted">Obj c, bubble message, Facebook, Video merge, ratio adjustment</p>
                     </div>
                 </div>
-                <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#and_sonicxm" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/ios/sonic/sonic_preview.gif" class="img-responsive center" alt="">
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>SonicXM</h4>
-                        <p class="text-muted">Android, Tomahawk plugin</p>
-                    </div>
-                </div>
+                
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#web_gp2u" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
@@ -297,6 +285,36 @@
                     <div class="portfolio-caption">
                         <h4>GP2U</h4>
                         <p class="text-muted">web & mobile, opentok, location-map, Facebook, Google+, Linkedin, Twitter</p>
+                    </div>
+                </div>
+                
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#ios_opentok" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/ios/opentok/opentok_preview.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>OpenTok</h4>
+                        <p class="text-muted">This is a simple video chatting application using WebRTC.</p>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#android_molarity" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/android/molarity/molarity_preview.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Molarity</h4>
+                        <p class="text-muted">Android, calculator for mass, volume, and the molar concentration</p>
                     </div>
                 </div>
             </div>
@@ -941,7 +959,19 @@
                             <h2>Story teller</h2>
                             <p class="item-intro text-muted">iPhone app for story teller.</p>
 
-                            <img class="img-responsive img-centered" src="img/portfolio/ios/storyteller/storyteller.gif" alt=""><br />
+                            <div class="row">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/ios/storyteller/1.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/ios/storyteller/2.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/ios/storyteller/3.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/ios/storyteller/4.png" alt="">
+                            </div>
+                            
+                            <div class="row">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/ios/storyteller/5.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/ios/storyteller/6.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/ios/storyteller/7.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/ios/storyteller/8.png" alt="">
+                            </div>                            
                             
                             <h5>Description</h5>
                             <article>make up script, recording video, taking photo, uploading to server and share them on Facebook and Twitter. Although you take any ratio video, it merges correctly.</article>
@@ -953,44 +983,6 @@
                                 <li>Date: Nov 2014</li>
                                 <li>Client: Ben</li>
                                 <li>Category: iOS</li>
-                            </ul>
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Portfolio Modal 5 -->
-    <div class="portfolio-modal modal fade" id="and_sonicxm" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                           <!-- Project Details Go Here -->
-                            <h2>SonicXM</h2>
-                            <p class="item-intro text-muted">Android app for mediaplayer.</p>
-
-                            <img class="img-responsive img-centered" src="img/portfolio/ios/sonic/sonic.gif" alt=""><br />
-                            
-                            <h5>Description</h5>
-                            <article>It is a music player that can play music stored in many different places, including music subscription services, promotion platforms, networked libraries, online data lockers, and more. It does this by decoupling the name of the song from the source it was shared from (e.g. a friend's playlist) and fulfills the "play" request using all available sources. This allows Tomahawk users to create playlists using songs from their own computer, Spotify, YouTube, and more. The Toma.hk API uses Tomahawk's technology to allow users to embed a player for almost any song on a website using JavaScript.</article>
-                            <h5>Technology</h5>
-                            <article>Logging in and Searching musics from serveral streaming services like spotify, YouTube etc,</article>
-                            <h5>Links</h5>
-                            <a target="_blank" href="https://github.com/llvc/SonicXM"><img src="img/github.png"></a>
-                            <ul class="list-inline">
-                                <li>Date: March 2015</li>
-                                <li>Client: Abdule</li>
-                                <li>Category: Android</li>
                             </ul>
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                         </div>
@@ -1035,6 +1027,87 @@
                             <ul class="list-inline">
                                 <li>Date: July 2014</li>
                                 <li>Client: James</li>
+                                <li>Category: Web, Mobile</li>
+                            </ul>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Opentok portfolio modal -->
+    <div class="portfolio-modal modal fade" id="ios_opentok" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>OpenTok</h2>
+                            <p class="item-intro text-muted">Multi video chatting, WebRTC.</p>
+
+                            <img class="img-responsive img-centered col-lg-6" src="img/portfolio/ios/opentok/1.jpeg" alt="">
+                            <img class="img-responsive img-centered col-lg-6" src="img/portfolio/ios/opentok/2.jpeg" alt="">
+
+                            <h5>Description</h5>
+                            <article>This is a simple video chatting application using WebRTC.</article>
+                            <h5>Technology</h5>
+                            <article>multi video chatting, WebRTC</article>
+                            <h5>Links</h5>
+                            <a target="_blank" href="https://itunes.apple.com/us/app/opentokrtc/id715248169?mt=8"><img src="img/appstore.png"></a>
+                            <ul class="list-inline">
+                                <li>Date: Dec 2014</li>
+                                <li>Client: Jully</li>
+                                <li>Category: Web, Mobile</li>
+                            </ul>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- molarity portfolio modal -->
+    <div class="portfolio-modal modal fade" id="android_molarity" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Molarity</h2>
+                            <p class="item-intro text-muted">Android, calculator for mass, volume, and the molar concentration</p>
+
+                            <img class="img-responsive img-centered col-lg-4" src="img/portfolio/android/molarity/1.png" alt="">
+                            <img class="img-responsive img-centered col-lg-4" src="img/portfolio/android/molarity/2.png" alt="">
+                            <img class="img-responsive img-centered col-lg-4" src="img/portfolio/android/molarity/3.png" alt="">
+                            <img class="img-responsive img-centered col-lg-4" src="img/portfolio/android/molarity/4.png" alt="">
+                            <img class="img-responsive img-centered col-lg-4" src="img/portfolio/android/molarity/5.png" alt="">
+                            <img class="img-responsive img-centered col-lg-4" src="img/portfolio/android/molarity/6.png" alt="">
+
+                            <h5>Description</h5>
+                            <article>Molarity Calculator allows you to calculate any of mass, volume, and the molar concentration.</article>
+                            <h5>Technology</h5>
+                            <article>Keyboard customizing</article>
+                            
+                            <ul class="list-inline">
+                                <li>Date: Dec 2014</li>
+                                <li>Client: Clint</li>
                                 <li>Category: Web, Mobile</li>
                             </ul>
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
