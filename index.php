@@ -2079,7 +2079,7 @@
                         <div class="modal-body">
                             <!-- Project Details Go Here -->
                             <h2>Twoo</h2>
-                            <p class="item-intro text-muted">ROR, social dating site.</p>
+                            <p class="item-intro text-muted">ROR&mobile, social dating site.</p>
 
                             <h5>Android/iOS</h5>
                             <div class="row">
@@ -2124,6 +2124,12 @@
                             <article>Mail confirm, Paypal, credit card, connect with Facebook, Google+, Chatting, Hotmail, Skype, Facebook, Yahoo, Gmail, Google+ api</article>
 
                             <h5>Links</h5>
+                            <a target="_blank" href="https://itunes.apple.com/us/app/twoo-meet-new-people/id486773266?mt=8">
+                                <img src="img/appstore.png">
+                            </a>
+                            <a target="_blank" href="https://play.google.com/store/apps/details?id=com.twoo">
+                                <img src="img/google_play.png">
+                            </a>
                             <a target="_blank" href="https://www.twoo.com/">
                                 <img src="img/web.png">
                             </a>
