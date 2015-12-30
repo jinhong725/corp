@@ -214,6 +214,37 @@
                 </div>
             </div>
             <div class="row">
+
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#windowsadmin" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/azure/azure_preview.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Windows system administration</h4>
+                        <p class="text-muted">Azure cloud service</p>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#linuxadmin" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/linux/aws_preview.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Linux system administration</h4>
+                        <p class="text-muted">AWS, CentOS, Devian...</p>
+                    </div>
+                </div>
+
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#web_drinkme" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
@@ -226,21 +257,6 @@
                     <div class="portfolio-caption">
                         <h4>Drink Me</h4>
                         <p class="text-muted">ROR/mobile, e-commerce</p>
-                    </div>
-                </div>
-
-                <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#awsservice" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/linux/aws_preview.png" class="img-responsive" alt="">
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>AWS Service</h4>
-                        <p class="text-muted">Linux system administration</p>
                     </div>
                 </div>
                 
@@ -881,6 +897,205 @@
     <!-- Portfolio Modals -->
     <!-- Use the modals below to showcase details about your portfolio projects! -->
 
+    <!-- windows system administration Modal 3 -->
+    <div class="portfolio-modal modal fade" id="windowsadmin" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Windows system administration</h2>
+                            <p class="item-intro text-muted">Azure cloud service</p>
+
+                            <img class="img-responsive img-centered" src="img/portfolio/azure/azure.png" alt="" />
+
+                            <h5>
+                                Create a Windows/Linux Virtual Machine
+                            </h5>
+                            <article>
+                                We can create an Azure virtual machines by using Microsoft Azure portal and Azure Command-line Interface.
+                            </article><br>
+
+                            <h5>
+                                App Service
+                            </h5>
+                            <article>
+                                We can create web and mobile apps for any platform and any device
+                            </article><br>
+
+                            <h5>
+                                Mobile backend
+                            </h5>
+                            <article>
+                                We can create a mobile backend with MS SQL and Data sync.<br>
+                                So you can make your mobile app works even though offline.
+                            </article><br>
+
+                            <h5>
+                                API app
+                            </h5>
+                            <article>
+                                We can easigy build RESTful APIs in Azure portal.
+                            </article><br>
+
+                            <h5>
+                                Data & Storage
+                            </h5>
+                            <article>
+                                We can create SQL server, MS sql, Mysql by this cloud service and combine them with each web&mobile backend.
+                            </article><br>
+
+                            <h5>
+                                Load balancer, DNS, VPN Gateway
+                            </h5>
+                            <article>
+                                We can deliver high availability and network performance to our app in Azure.<br>
+                                We can host your DNS and establish secure, cross-premises connectivity.
+                            </article><br>
+
+                            <h5>
+                                Links
+                            </h5>
+                            <article class="align-left">
+                                http://cobb.newoceaninfosys.com:5102/ (ninh.tran@newoceaninfosys.com/123456789@) --> AngularJS, REST API, ASP.NET MVC<br/><br/>
+                                http://flowtasks.newoceaninfosys.com:1974/flow.tasks.web/ (cgrant/pwd or hbogart/pwd) --> AngularJS, REST API, ASP.NET MVC <br/><br/>
+                                http://webmeeting.newoceaninfosys.com:2917/ (Admin/Abc123456) --> AngularJS, REST API, ASP.NET MVC These are e-commerce sites we did for your customers and deployed on Azure <br/><br/>
+                                http://www.cozyrugs.com/ - nop 3.6, Azure (hosting, web app, SQL) <br/><br/>
+                                http://www.shanab.moda/en/ - nop 3.5, Azure (Hosting, Web App, SQL, CDN, Search, Redis Cache) <br/><br/>
+                                http://www.sweetzu.com/ - nop 3.5, multi-store, multi-vendors <br/><br/>
+                                http://www.fitglasses.com/ - nop 3.4, Azure (website hosting, CDN, Blob Storage service)
+                            </article><br/>                                                 
+
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- linux system administration Modal 3 -->
+    <div class="portfolio-modal modal fade" id="linuxadmin" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Linux system administration</h2>
+                            <p class="item-intro text-muted">Devian, CentOS, Ubunt, Red Hat, FreeBSD</p>
+
+                            <img class="img-responsive img-centered" src="img/portfolio/linux/aws_preview.png" alt="" />
+
+                            <h5>Our familiar unix OS for web service</h5>
+                            <article>Devian, CentOS, Ubunt, Red Hat, FreeBSD</article><br>
+
+                            <h5>
+                                Install WHM(Web Hosting Manager) and cPanel on VPS(Vertual Private Server) and migrage them to the other
+                            </h5>
+                            <article>
+                                we can install WHM and cPanel on VPS and migrate to other VPS.<br/>
+                                we can adjust the web services on cPanel.<br/>
+                                If you are familiar with Virtualmin, we can also setup this so that you can create and manage many domains.
+                            </article><br>
+
+                            <h5>
+                                ROR/PHP projects Hosting and Mysql tunning on AWS, Digital Ocean, Ubuntu, CentOS
+                            </h5>
+                            <article>
+                                We can host the ROR/PHP web projects on AWS, GoDady, Ubuntu and so on.<br>
+                                We can install Postgresql, Mysql, MongoDB in it and repair the wrong dbs.<br>
+                                We can backup dbs so that you can recover your data later.<br>
+                                we can configure FTP on AWS and Digital Ocean.
+                            </article><br>
+
+                            <h5>
+                                Install NGINX, DNS, SSL, postfix, davecot
+                            </h5>
+                            <article>
+                                We can install NGINX on Linux, Mac, Solaris so that make your service provide IMAP/POP3, load balancer, HTTP cache functions.<br>
+                                We can install DNS and SSL perfectly on Any linux machine<br>
+                                We can install Postfix and davecot for mailing in your service.
+                            </article><br>
+
+                            <h5>
+                                Configure LAMP(Linux Apache Mysql Perl/Phthon/PHP)
+                            </h5>
+                            <article>
+                                We can configure LAMP so that you can manage your web service on Linux
+                            </article><br>
+
+                            <h5>
+                                rsync
+                            </h5>
+                            <article>
+                                We can install rsync so that you can sync a remote and local fil
+                            </article><br>
+
+                            <h5>
+                                Amazon Web Service (AWS)
+                            </h5>
+                            <article>
+                                We can create Amazon EC2 for Web service.<br>
+                                We can setup Amazon S3 bucket so that web and mobile can share their datas each other.<br>
+                                We can also setup Amazon RDS as a relational database in cloud service.<br>
+                                We can create and manage Amazon VPC, so you can launch AWS on it.<br>
+                                We can create Amazon API Gateway for mobile backend and REST API creation.<br>
+                                We are also familiar with Amazon mobile SDKs so we can help you to integrate them with your mobile logic.<br>
+                                We introduce simply about our AWS experience but you will see our skill working together.
+                            </article><br>
+
+                            <h5>
+                                Linux CLI
+                            </h5>
+                            <article>
+                                we have been managing the web services on Linux system for 5 years.<br>
+                                we could haven't avoid linux command line. But this made us master the Linux CLI perfectly<br>
+                                Now we don't have any problem with it.
+                            </article><br>
+
+                            <h5>
+                                Installation FreePBX, Asterisk on a dedicated server
+                            </h5>
+                            <article>
+                                We can install the PBX server. we have managed 10+ PBX servers for SIP applications.
+                            </article><br>
+
+                            <h5>
+                                Redmine configuration
+                            </h5>
+                            <article>
+                                we can configure the Redmine and it's plugins so that you can manage your project efficiently.
+                            </article><br>
+
+                            <h5>
+                                Bitnami
+                            </h5>
+                            <article>
+                                We can install this package on your dedicated server and fix bugs from it.
+                            </article><br>
+
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- drinkme Modal 1 -->
     <div class="portfolio-modal modal fade" id="web_drinkme" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
@@ -916,209 +1131,6 @@
                                 <li>Client: Susan Cain</li>
                                 <li>Category: ROR&mobile, e-commerce</li>
                             </ul>
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- AWS Modal 3 -->
-    <div class="portfolio-modal modal fade" id="awsservice" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <!-- Project Details Go Here -->
-                            <h2>AWS service</h2>
-                            <p class="item-intro text-muted">Amazon EC2, Amazon S3, Amazon RDS, Amazon VPC, Amazon API Gateway, Amazon Mobile Hub, Amazon DynamoDB, Elastic Load Balancing, ...</p>
-                            
-                            <!-- slide -->
-                            <div id="jssor_1" style="position:relative;margin:0 auto;top:0px;left:0px;width:980px;height:400px;overflow:hidden;visibility:hidden;background:url('img/portfolio/linux/main_bg.jpg') 50% 50% no-repeat;">
-                                <!-- Loading Screen -->
-                                <div data-u="loading" style="position: absolute; top: 0px; left: 0px;">
-                                    <div style="filter: alpha(opacity=70); opacity: 0.7; position: absolute; display: block; top: 0px; left: 0px; width: 100%; height: 100%;"></div>
-                                    <div style="position:absolute;display:block;background:url('img/portfolio/linux/loading.gif') no-repeat center center;top:0px;left:0px;width:100%;height:100%;"></div>
-                                </div>
-                                <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 980px; height: 400px; overflow: hidden;">
-                                    <div data-p="172.50" style="display: none;">
-                                        <div style="position: absolute; top: 10px; left: 10px; width: 480px; height: 300px; font-family: Arial, Verdana; font-size: 12px; text-align: left;"><br />
-                                            <span style="display: block; line-height: 1em; text-transform: uppercase; font-size: 52px; color: #FFFFFF;">amazon ec2</span><br /><br /><br />
-                                            <span style="display: block; line-height: 1.1em; font-size: 2.5em; color: #FFFFFF;">
-                                                                                Scalable computing capacity
-                                                                            
-                                            </span><br />
-                                            <span style="display: block; line-height: 1.1em; font-size: 1.5em; color: #FFFFFF;">
-                                                <ul >
-                                                    <li>Creating VCE, AMIs</li>
-                                                    <li>Various configurations of CPU, memory, storage, and networking capacity for your instances</li>
-                                                    <li>Persistent storage volumes for Amazon EBS</li>
-                                                    <li>Secure login information for your instances using key pairs</li>
-                                                    <li>Static IP addresses for dynamic cloud computing</li>
-                                                    <li>A firewall that enables you to specify</li>
-                                                </ul>
-                                                                            
-                                            </span><br /><br />
-                                            
-                                        </div>
-                                        <img src="img/portfolio/linux/s2.png" style="position: absolute; top: 23px; left: 480px; width: 500px; height: 300px;" />
-                                        <img data-u="thumb" src="img/portfolio/linux/s2t.jpg" />
-                                    </div>
-
-                                    <div data-p="172.50" style="display: none;">
-                                        <div style="position: absolute; top: 10px; left: 10px; width: 480px; height: 300px; font-family: Arial, Verdana; font-size: 12px; text-align: left;">
-                                            <span style="display: block; line-height: 1em; text-transform: uppercase; font-size: 52px;
-                                                        color: #FFFFFF;">tool service</span><br /><br /><br />
-                                            <span style="display: block; line-height: 1.1em; font-size: 2.5em; color: #FFFFFF;">
-                                                Developer & Manage tools
-                                                
-                                            </span><br />
-                                            <span style="display: block; line-height: 1.1em; font-size: 1.5em; color: #FFFFFF;">
-                                                <ul >
-                                                    <li>Installing SDK</li>
-                                                    <li>Using console for services</li>
-                                                    <li>Deploying the services automatically</li>
-                                                    <li>Collecting, viewing, and analyze metrics</li>
-                                                    <li>resources associated with your AWS account</li>
-                                                    <li>Creating, managing, and distributing portfolios of approved products</li>
-                                                </ul>
-                                                                            
-                                            </span><br /><br />
-                                            
-                                        </div>
-                                        <img src="img/portfolio/linux/s3.png" style="position: absolute; top: 23px; left: 480px; width: 500px; height: 300px;" />
-                                        <img data-u="thumb" src="img/portfolio/linux/s3t.jpg" />
-                                    </div>
-
-                                    <div data-p="172.50" style="display: none;">
-                                        <div style="position: absolute; top: 10px; left: 10px; width: 480px; height: 300px; font-family: Arial, Verdana; font-size: 12px; text-align: left;">
-                                            <span style="display: block; line-height: 1em; text-transform: uppercase; font-size: 52px;
-                            color: #FFFFFF;">AWS Market</span><br /><br /><br />
-                                            <span style="display: block; line-height: 1.1em; font-size: 2.5em; color: #FFFFFF;">
-                                                    Marketing place for software
-                                                
-                                            </span><br /><br />
-                                            <span style="display: block; line-height: 1.1em; font-size: 1.5em; color: #FFFFFF;">
-                                                <ul >
-                                                    <li>Configure online store where you can buy or sell software that runs on Amazon Web Services (AWS)</li>
-                                                    <li>Finding, Buying, and quickly deploying software that runs on AWS</li>
-                                                    <li>Managing the sales channel for products you sell</li>
-                                                </ul>
-                                                                            
-                                            </span><br /><br />
-                                        </div>
-                                        <img src="img/portfolio/linux/s4.png" style="position: absolute; top: 23px; left: 480px; width: 500px; height: 300px;" />
-                                        <img data-u="thumb" src="img/portfolio/linux/s4t.jpg" />
-                                    </div>
-
-                                    <div data-p="172.50" style="display: none;">
-                                        <div style="position: absolute; top: 10px; left: 10px; width: 480px; height: 300px; font-family: Arial, Verdana; font-size: 12px; text-align: left;"><br />
-                                            <span style="display: block; line-height: 1em; text-transform: uppercase; font-size: 52px;
-                            color: #FFFFFF;">web hosting</span><br /><br />
-                                            <span style="display: block; line-height: 1.1em; font-size: 2.5em; color: #FFFFFF;">
-                                                    we offer the web's best hosting plans for every site.
-                                                
-                                            </span><br /><br />
-                                            <span style="display: block; line-height: 1.1em; font-size: 1.5em; color: #FFFFFF;">
-                                                <ul >
-                                                    <li>AWS EC2</li>
-                                                    <li>Heroku</li>
-                                                    <li>Go Dady</li>
-                                                    <li>Digital Ocean</li>
-                                                </ul>
-                                                                            
-                                            </span><br /><br />
-                                            
-                                        </div>
-                                        <img src="img/portfolio/linux/s5.png" style="position: absolute; top: 23px; left: 480px; width: 500px; height: 300px;" />
-                                        <img data-u="thumb" src="img/portfolio/linux/s5t.jpg" />
-                                    </div>
-
-                                    <div data-p="172.50" style="display: none;">
-                                        <div style="position: absolute; top: 10px; left: 10px; width: 480px; height: 300px; font-family: Arial, Verdana; font-size: 12px; text-align: left;">
-                                            <span style="display: block; line-height: 1em; text-transform: uppercase; font-size: 52px;
-                            color: #FFFFFF;">DNS registration</span><br />
-                                            <span style="display: block; line-height: 1.1em; font-size: 2.5em; color: #FFFFFF;">
-                                                    Secure your online identity and register your domain now.
-                                                
-                                            </span><br /><br />
-                                            
-                                        </div>
-                                        <img src="img/portfolio/linux/s6.png" style="position: absolute; top: 23px; left: 480px; width: 500px; height: 300px;" />
-                                        <img data-u="thumb" src="img/portfolio/linux/s6t.jpg" />
-                                    </div>
-
-                                    <div data-p="172.50" style="display: none;">
-                                        <div style="position: absolute; top: 10px; left: 10px; width: 480px; height: 300px; font-family: Arial, Verdana; font-size: 12px; text-align: left;"><br />
-                                            <span style="display: block; line-height: 1em; text-transform: uppercase; font-size: 52px;
-                            color: #FFFFFF;">IPPBX & Asterisk</span><br />
-                                            <span style="display: block; line-height: 1.1em; font-size: 2.5em; color: #FFFFFF;">
-                                                    Setting up IPPBX & Asterisk service for VoIP products like SIP phone.
-                                                
-                                            </span><br /><br />
-                                            
-                                        </div>
-                                        <img src="img/portfolio/linux/s7.png" style="position: absolute; top: 23px; left: 480px; width: 500px; height: 300px;" />
-                                        <img data-u="thumb" src="img/portfolio/linux/s7t.jpg" />
-                                    </div>
-
-                                    <div data-p="172.50" style="display: none;">
-                                        <div style="position: absolute; top: 10px; left: 10px; width: 480px; height: 300px; font-family: Arial, Verdana; font-size: 12px; text-align: left;">
-                                            <span style="display: block; line-height: 1em; text-transform: uppercase; font-size: 52px;
-                        color: #FFFFFF;">AWS Mobile HUB</span><br />
-                                            <span style="display: block; line-height: 1.1em; font-size: 2.5em; color: #FFFFFF;">
-                                                Helping you build, test, and monitor your mobile apps
-                                                <br /><br />
-                                                
-                                            </span>
-                                            <span style="display: block; line-height: 1.1em; font-size: 1.5em; color: #FFFFFF;">
-                                                <ul >
-                                                    <li>User sign-in</li>
-                                                    <li>Push notifications</li>
-                                                    <li>User data storage</li>
-                                                    <li>App analytics</li>
-                                                    <li>Cloud logic</li>
-                                                </ul>
-                                                                            
-                                            </span><br /><br />
-                                        </div>
-                                        <img src="img/portfolio/linux/s8.png" style="position: absolute; top: 23px; left: 480px; width: 500px; height: 300px;" />
-                                        <img data-u="thumb" src="img/portfolio/linux/s8t.jpg" />
-                                    </div>
-
-                                </div>
-                                <!-- Thumbnail Navigator -->
-                                <div data-u="thumbnavigator" class="jssort04" style="position:absolute;left:0px;bottom:0px;width:980px;height:60px;" data-autocenter="1">
-                                    <!-- Thumbnail Item Skin Begin -->
-                                    <div data-u="slides" style="cursor: default;">
-                                        <div data-u="prototype" class="p">
-                                            <div class="w">
-                                                <div data-u="thumbnailtemplate" class="t"></div>
-                                            </div>
-                                            <div class="c"></div>
-                                        </div>
-                                    </div>
-                                    <!-- Thumbnail Item Skin End -->
-                                </div>
-                                <!-- Arrow Navigator -->
-                                <span data-u="arrowleft" class="jssora07l" style="top:0px;left:8px;width:50px;height:50px;" data-autocenter="2"></span>
-                                <span data-u="arrowright" class="jssora07r" style="top:0px;right:8px;width:50px;height:50px;" data-autocenter="2"></span>
-                                <a href="http://www.jssor.com" style="display:none">Bootstrap Carousel</a>
-                            </div><br /><br /><br />
-
-                            <!-- end slide -->
-
-                            <p>We can create AWS instances and deploy your services successfully. We will supply finished AWS EC2, EC3 bucket and so on.</p>
-                            <p>We can setup services like mail, ftp, SELinux, SMPT, POP3, FreePBX, Asterisk in your hosting server.</p>
-                            <p>We can maintain your services and backup the DB perfectly. We can provide Couch DB, pouch DB, Amazon EC3 bucket.</p><br /><br />
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                         </div>
                     </div>

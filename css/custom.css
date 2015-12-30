@@ -8,6 +8,10 @@ img.center {
 	text-align: left !important;
 }
 
+.align-left {
+	text-align: left !important;
+}
+
 article {
 	text-align: left !important;
 	text-indent: 20px;
