@@ -225,24 +225,10 @@
                     </a>
                     <div class="portfolio-caption">
                         <h4>Drink Me</h4>
-                        <p class="text-muted">ROR, shoping, credit card, signup with facebook</p>
+                        <p class="text-muted">ROR/mobile, e-commerce</p>
                     </div>
                 </div>
-                <!-- <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#web_billsync" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/bill_sync.gif" class="img-responsive" alt="">
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>bill Sync</h4>
-                        <p class="text-muted">ROR, Payment, REST API, auto pay, Mail, SMS<br>
-                            We provide a video about this project. It will help you to understand more.</p>
-                    </div>
-                </div> -->
+
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#awsservice" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
@@ -254,7 +240,7 @@
                     </a>
                     <div class="portfolio-caption">
                         <h4>AWS Service</h4>
-                        <p class="text-muted">Amazon EC2, Amazon S3, Amazon RDS, Amazon VPC...</p>
+                        <p class="text-muted">Linux system administration</p>
                     </div>
                 </div>
                 
@@ -269,7 +255,7 @@
                     </a>
                     <div class="portfolio-caption">
                         <h4>Storyteller</h4>
-                        <p class="text-muted">Obj c, bubble message, Facebook, Video merge, ratio adjustment</p>
+                        <p class="text-muted">IOS, video/photo sharing</p>
                     </div>
                 </div>
                 
@@ -284,7 +270,7 @@
                     </a>
                     <div class="portfolio-caption">
                         <h4>GP2U</h4>
-                        <p class="text-muted">web & mobile, opentok, location-map, Facebook, Google+, Linkedin, Twitter</p>
+                        <p class="text-muted">web & mobile, doctor consultant</p>
                     </div>
                 </div>
                 
@@ -299,7 +285,7 @@
                     </a>
                     <div class="portfolio-caption">
                         <h4>OpenTok</h4>
-                        <p class="text-muted">This is a simple video chatting application using WebRTC.</p>
+                        <p class="text-muted">iOS, video chatting.</p>
                     </div>
                 </div>
 
@@ -314,9 +300,250 @@
                     </a>
                     <div class="portfolio-caption">
                         <h4>Molarity</h4>
-                        <p class="text-muted">Android, calculator for mass, volume, and the molar concentration</p>
+                        <p class="text-muted">Android, calculator</p>
                     </div>
                 </div>
+
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#web_evolution" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/web/evolution/evolution_preview.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Evolution</h4>
+                        <p class="text-muted">Ruby, website builder.</p>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#web_grandin" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/web/granding/granding_preview.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Grandin</h4>
+                        <p class="text-muted">Ruby, Shopify</p>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#web_kids" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/web/kids/kids_preview.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Kids</h4>
+                        <p class="text-muted">Ruby, video streaming</p>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#web_potstore" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/web/potstore/potstore_preview.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Potstore</h4>
+                        <p class="text-muted">Ruby, shopify</p>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#web_productreview" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/web/productreview/productreview_preview.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Productreview</h4>
+                        <p class="text-muted">Ruby, e-commerce</p>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#web_starfall" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/web/starfall/starfall_preview.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Starfall</h4>
+                        <p class="text-muted">Ruby, education.</p>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#web_thoughts" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/web/thoughts/thoughts_preview.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Thoughts</h4>
+                        <p class="text-muted">Ruby, social</p>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#wm_boutir" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/web+mobile/boutir/boutir_preview.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Boutir</h4>
+                        <p class="text-muted">Ruby&mobile, Shopify</p>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#wm_englishradio" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/web+mobile/englishradio/englishradio_preview.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>EnglishRadio</h4>
+                        <p class="text-muted">Android&iOS, online chatting</p>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#wm_hichat" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/web+mobile/hichat/hichat_preview.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>HiChat</h4>
+                        <p class="text-muted">Android&iOS, video chat</p>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#wm_meru" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/web+mobile/meru/meru_preview.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Meru</h4>
+                        <p class="text-muted">Android&iOS, Taxi app</p>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#wm_okcupid" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/web+mobile/okcupid/okcupid_preview.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Okcupid</h4>
+                        <p class="text-muted">Android&iOS, dating app</p>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#wm_oplayer" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/web+mobile/oplayer/oplayer_preview.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Oplayer</h4>
+                        <p class="text-muted">Android/iOS, online streaming</p>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#wm_taxi" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/web+mobile/taxi/taxi_preview.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Taxi</h4>
+                        <p class="text-muted">Web&mobile, Taxi app</p>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#wm_twoo" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/web+mobile/twoo/twoo_preview.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Twoo</h4>
+                        <p class="text-muted">Ruby&Mobile, dating app</p>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#wm_viber" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/web+mobile/viber/viber_preview.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Viber</h4>
+                        <p class="text-muted">Android&iOS, SMS/Video calling</p>
+                    </div>
+                </div>
+
             </div>
         </div>
     </section>
@@ -654,7 +881,7 @@
     <!-- Portfolio Modals -->
     <!-- Use the modals below to showcase details about your portfolio projects! -->
 
-    <!-- Portfolio Modal 1 -->
+    <!-- drinkme Modal 1 -->
     <div class="portfolio-modal modal fade" id="web_drinkme" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
@@ -669,7 +896,7 @@
                         <div class="modal-body">
                             <!-- Project Details Go Here -->
                             <h2>Drink Me</h2>
-                            <p class="item-intro text-muted">ROR project for world drink shop site.</p>
+                            <p class="item-intro text-muted">ROR project for world-wide drink shopping.</p>
 
                             <img class="img-responsive img-centered" src="img/portfolio/web/drink/drink_about.png" alt="" />
                             <img class="img-responsive img-centered" src="img/portfolio/web/drink/drink_credit.png" alt="" />
@@ -677,18 +904,17 @@
                             <img class="img-responsive img-centered" src="img/portfolio/web/drink/drink_login.png" alt="" />                          
                             
                             <h5>Description</h5>
-                            <article>you can buy drink at any place in the world. It provides world wide credit card for shopping a drink.</article>
+                            <article>you can buy a drink at any place in the world.</article>
                             <h5>Technology</h5>
-                            <article>ROR, shoping logic, credit card, signup with facebook</article>
+                            <article>ROR, shoping logic, credit card integration, signup with facebook</article>
                             <h5>Links</h5>
                             <a target="_blank" href="https://itunes.apple.com/us/app/buddy-drinks/id978612190?ls=1&mt=8"><img src="img/appstore.png"></a>
                             <a target="_blank" href="https://play.google.com/store/apps/details?id=com.consumer.buddydrinks"><img src="img/google_play.png"></a>
-                            <a target="_blank" href="https://github.com/llvc/drink"><img src="img/github.png"></a>
                             <a target="_blank" href="http://drnk.me/"><img src="img/web.png"></a>
                             <ul class="list-inline">
-                                <li>Date: July 2010</li>
+                                <li>Date: DEC 2010</li>
                                 <li>Client: Susan Cain</li>
-                                <li>Category: Web&mobile</li>
+                                <li>Category: ROR&mobile, e-commerce</li>
                             </ul>
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                         </div>
@@ -698,48 +924,7 @@
         </div>
     </div>
 
-    <!-- Portfolio Modal 2 -->
-    <!-- <div class="portfolio-modal modal fade" id="web_billsync" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>bill Sync</h2>
-                            <p class="item-intro text-muted">ROR project for billing Sync company.</p>
-                            <img class="img-responsive img-centered col-lg-6" src="img/portfolio/web/billSync/1.png" alt="">
-                            <img class="img-responsive img-centered col-lg-6" src="img/portfolio/web/billSync/2.png" alt="">
-                            <video width="320" height="240" controls>
-                                <source src="img/portfolio/web/billSync/video.mp4" type="video/mp4">
-                            </video> 
-
-                            <h5>Description</h5>
-                            <article>Never pay. If you take a picture of your billing, it will be paid automatically.</article>
-                            <h5>Technology</h5>
-                            <article>ROR, payment, auto payment, Mail, REST API, OCR detecting</article>
-                            <h5>Links</h5>
-                            <a target="_blank" href="https://github.com/llvc/billsync"><img src="img/github.png"></a>
-                            <a target="_blank" href="https://bill-sync.com/"><img src="img/web.png"></a>
-                            <ul class="list-inline">
-                                <li>Date: July 2013</li>
-                                <li>Client: Joe</li>
-                                <li>Category: Web</li>
-                            </ul>
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-
-    <!-- Portfolio Modal 3 -->
+    <!-- AWS Modal 3 -->
     <div class="portfolio-modal modal fade" id="awsservice" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
@@ -942,7 +1127,7 @@
         </div>
     </div>
 
-    <!-- Portfolio Modal 4 -->
+    <!-- storyteller Modal 4 -->
     <div class="portfolio-modal modal fade" id="ios_storyteller" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
@@ -957,7 +1142,7 @@
                         <div class="modal-body">
                             <!-- Project Details Go Here -->
                             <h2>Story teller</h2>
-                            <p class="item-intro text-muted">iPhone app for story teller.</p>
+                            <p class="item-intro text-muted">iPhone app for video/photo sharing.</p>
 
                             <div class="row">
                                 <img class="img-responsive img-centered col-lg-3" src="img/portfolio/ios/storyteller/1.png" alt="">
@@ -980,9 +1165,9 @@
                             <h5>Links</h5>
                             <a target="_blank" href="https://github.com/llvc/storyteller"><img src="img/github.png"></a>
                             <ul class="list-inline">
-                                <li>Date: Nov 2014</li>
+                                <li>Date: AUG 2010</li>
                                 <li>Client: Ben</li>
-                                <li>Category: iOS</li>
+                                <li>Category: IOS, video/photo sharing</li>
                             </ul>
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                         </div>
@@ -992,7 +1177,7 @@
         </div>
     </div>
 
-    <!-- Portfolio Modal 6 -->
+    <!-- gp2u Modal 6 -->
     <div class="portfolio-modal modal fade" id="web_gp2u" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
@@ -1007,7 +1192,7 @@
                         <div class="modal-body">
                             <!-- Project Details Go Here -->
                             <h2>GP2U</h2>
-                            <p class="item-intro text-muted">Web & Mobile, Opentok, Login with Facebook, LinkedIn, Google+, Twitter, Map.</p>
+                            <p class="item-intro text-muted">Web & Mobile</p>
                             <img class="img-responsive img-centered" src="img/portfolio/ios/gp2u/gp2u_web.png" alt="">
 
                             <img class="img-responsive img-centered col-lg-6" src="img/portfolio/ios/gp2u/2.jpeg" alt="">
@@ -1022,12 +1207,11 @@
                             <h5>Links</h5>
                             <a target="_blank" href="https://itunes.apple.com/de/app/gp2u-telehealth-online-doctors/id625961235?mt=8"><img src="img/appstore.png"></a>
                             <a target="_blank" href="https://play.google.com/store/apps/details?id=com.hugemobile.activity&hl=de"><img src="img/google_play.png"></a>
-                            <a target="_blank" href="https://github.com/llvc/gp2u"><img src="img/github.png"></a>
                             <a target="_blank" href="https://gp2u.com.au/"><img src="img/web.png"></a>
                             <ul class="list-inline">
-                                <li>Date: July 2014</li>
+                                <li>Date: MAR 2011</li>
                                 <li>Client: James</li>
-                                <li>Category: Web, Mobile</li>
+                                <li>Category: web&mobile, doctor consultant</li>
                             </ul>
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                         </div>
@@ -1064,9 +1248,9 @@
                             <h5>Links</h5>
                             <a target="_blank" href="https://itunes.apple.com/us/app/opentokrtc/id715248169?mt=8"><img src="img/appstore.png"></a>
                             <ul class="list-inline">
-                                <li>Date: Dec 2014</li>
+                                <li>Date: Apr 2011</li>
                                 <li>Client: Jully</li>
-                                <li>Category: Web, Mobile</li>
+                                <li>Category: iOS, video chatting</li>
                             </ul>
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                         </div>
@@ -1101,14 +1285,914 @@
                             <img class="img-responsive img-centered col-lg-4" src="img/portfolio/android/molarity/6.png" alt="">
 
                             <h5>Description</h5>
-                            <article>Molarity Calculator allows you to calculate any of mass, volume, and the molar concentration.</article>
+                            <article>Molarity Calculator helps you to calculate any of mass, volume, and the molar concentration.</article>
                             <h5>Technology</h5>
                             <article>Keyboard customizing</article>
-                            
+
                             <ul class="list-inline">
                                 <li>Date: Dec 2014</li>
                                 <li>Client: Clint</li>
-                                <li>Category: Web, Mobile</li>
+                                <li>Category: Android, calculator</li>
+                            </ul>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- evolution portfolio modal -->
+    <div class="portfolio-modal modal fade" id="web_evolution" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Evolution</h2>
+                            <p class="item-intro text-muted">This is a site building engine written in ruby</p>
+
+                            <img class="img-responsive img-centered" src="img/portfolio/web/evolution/demo.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web/evolution/forum.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web/evolution/home.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web/evolution/hosting.png" alt="">
+
+                            <h5>Description</h5>
+                            <article>This is a web site building project. you can post blogs, share photos, connect your community and publish it with structure.</article>
+                            <h5>Technology</h5>
+                            <article>CMS / content / blogs / photos galleries / community / forums / email marketing etc</article>
+                            
+                            <h5>Links</h5>
+                            <a target="_blank" href="http://b2evolution.net/"><img src="img/web.png"></a>
+
+                            <ul class="list-inline">
+                                <li>Date: SEP 2012</li>
+                                <li>Client: Nikel</li>
+                                <li>Category: Ruby, website builder</li>
+                            </ul>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- grandin portfolio modal -->
+    <div class="portfolio-modal modal fade" id="web_grandin" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Grandin</h2>
+                            <p class="item-intro text-muted">ROR, shopping site for garden decorator</p>
+
+                            <img class="img-responsive img-centered" src="img/portfolio/web/granding/addcart.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web/granding/country.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web/granding/granding.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web/granding/preview.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web/granding/shopping_list.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web/granding/storelocation.png" alt="">
+
+                            <h5>Description</h5>
+                            <article>You can brows the Furniture, Bed, Door etc and buy them from the site.</article>
+                            <h5>Technology</h5>
+                            <article>CMS / content / blogs / photos galleries / community / forums / email marketing etc</article>
+                            
+                            <h5>Links</h5>
+                            <a target="_blank" href="http://www.grandinroad.com/"><img src="img/web.png"></a>
+
+                            <ul class="list-inline">
+                                <li>Date: Jan 2013</li>
+                                <li>Client: Jack</li>
+                                <li>Category: Ruby, Shopify</li>
+                            </ul>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- kids portfolio modal -->
+    <div class="portfolio-modal modal fade" id="web_kids" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Kids</h2>
+                            <p class="item-intro text-muted">ROR, video streaming site for kids</p>
+
+                            <img class="img-responsive img-centered" src="img/portfolio/web/kids/home.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web/kids/login.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web/kids/video_list.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web/kids/video streaming.png" alt="">
+
+                            <h5>Description</h5>
+                            <article>This is for children's funny video. This is a video streaming app build in ROR.</article>
+                            <h5>Technology</h5>
+                            <article>Login with parse, video streaming api</article>
+
+                            <h5>Links</h5>
+                            <a target="_blank" href="http://kids.nationalgeographic.com"><img src="img/web.png"></a>
+                            
+                            <ul class="list-inline">
+                                <li>Date: March 2013</li>
+                                <li>Client: Hilemon</li>
+                                <li>Category: Ruby, video streaming</li>
+                            </ul>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- potstore portfolio modal -->
+    <div class="portfolio-modal modal fade" id="web_potstore" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Potstore</h2>
+                            <p class="item-intro text-muted">ROR, shopping site for gardener</p>
+
+                            <img class="img-responsive img-centered" src="img/portfolio/web/potstore/detail.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web/potstore/events.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web/potstore/fermob.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web/potstore/item.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web/potstore/shipping.png" alt="">
+
+                            <h5>Description</h5>
+                            <article>You can buy pot and flowers for garden decoration. They sells many beautiful designs with pot.</article>
+                            <h5>Technology</h5>
+                            <article>Shopify, debit card, Parse</article>
+
+                            <h5>Links</h5>
+                            <a target="_blank" href="http://www.pottedstore.com"><img src="img/web.png"></a>
+                            
+                            <ul class="list-inline">
+                                <li>Date: Jan 2014</li>
+                                <li>Client: Betrolic</li>
+                                <li>Category: Ruby, shopify</li>
+                            </ul>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- productreview portfolio modal -->
+    <div class="portfolio-modal modal fade" id="web_productreview" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>TopTen</h2>
+                            <p class="item-intro text-muted">ROR, Production review site for customers.</p>
+
+                            <img class="img-responsive img-centered" src="img/portfolio/web/productreview/compare.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web/productreview/ease.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web/productreview/g+.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web/productreview/home.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web/productreview/mobile.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web/productreview/reviews_preview.png" alt="">
+
+                            <h5>Description</h5>
+                            <article>This helps you to obtain the project. They get products from manufacture and set down the reviews so that the customers could purchase what they want.</article>
+                            <h5>Technology</h5>
+                            <article>google+, mandrill mailing, RSS feed, Compare products with graph, AWs S3</article>
+
+                            <h5>Links</h5>
+                            <a target="_blank" href="http://www.toptenreviews.com"><img src="img/web.png"></a>
+                            
+                            <ul class="list-inline">
+                                <li>Date: DEC 2014</li>
+                                <li>Client: Jack</li>
+                                <li>Category: Ruby, e-commerce</li>
+                            </ul>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- starfall portfolio modal -->
+    <div class="portfolio-modal modal fade" id="web_starfall" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Starfall</h2>
+                            <p class="item-intro text-muted">ROR, education site.</p>
+
+                            <img class="img-responsive img-centered" src="img/portfolio/web/starfall/fable_selling.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web/starfall/home.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web/starfall/homeschool.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web/starfall/starfall_preview.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web/starfall/store.png" alt="">
+
+                            <h5>Description</h5>
+                            <article>This is a program service of Starfall Education Foundation.
+                                On the Starfall website and in Starfall classrooms, children have fun while learning in an environment of collaboration, wonderment, and play. We teach through positive reinforcement to ensure children become confident, intrinsically motivated, and successful.</article>
+                            <h5>Technology</h5>
+                            <article>Shopping, credit card, buying Fables</article>
+
+                            <h5>Links</h5>
+                            <a target="_blank" href="http://www.starfall.com/"><img src="img/web.png"></a>
+                            
+                            <ul class="list-inline">
+                                <li>Date: Jan 2015</li>
+                                <li>Client: Dietrich</li>
+                                <li>Category: Ruby, education</li>
+                            </ul>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- thoughts portfolio modal -->
+    <div class="portfolio-modal modal fade" id="web_thoughts" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Thoughts</h2>
+                            <p class="item-intro text-muted">ROR, social site for sharing a person's thought.</p>
+
+                            <img class="img-responsive img-centered" src="img/portfolio/web/thoughts/friend.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web/thoughts/home.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web/thoughts/message.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web/thoughts/photo.png" alt="">
+
+                            <h5>Description</h5>
+                            <article>This is a CMS site for sharing a person's thought.
+                                You can edit your blog as you want.
+                                This is a social site. you can follow the blogs and friends. And you can brows the friends photos.
+                                You can login with the credential, jin_fong725@yahoo.com/Abcd123456
+                            </article>
+                            <h5>Technology</h5>
+                            <article>Facebook login, blog sharing, following blog, Facebook sharing, Send message, parse.com, RSS feed, add friend, photo group</article>
+
+                            <h5>Links</h5>
+                            <a target="_blank" href="http://www.thoughts.com/"><img src="img/web.png"></a>
+                            
+                            <ul class="list-inline">
+                                <li>Date: Apr 2015</li>
+                                <li>Client: Boris</li>
+                                <li>Category: Ruby, social</li>
+                            </ul>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- boutir portfolio modal -->
+    <div class="portfolio-modal modal fade" id="wm_boutir" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Boutir</h2>
+                            <p class="item-intro text-muted">ROR&mobile project for online shopping.</p>
+
+                            <h5>Android/IOS</h5>
+                            <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/boutir/mobile/1.png" alt="">
+                            <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/boutir/mobile/2.png" alt="">
+                            <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/boutir/mobile/3.png" alt="">
+                            <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/boutir/mobile/4.png" alt="">
+
+                            <h5>Web</h5>
+                            <img class="img-responsive img-centered" src="img/portfolio/web+mobile/boutir/web/fashion.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web+mobile/boutir/web/home.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web+mobile/boutir/web/payment.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web+mobile/boutir/web/plan.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web+mobile/boutir/web/seller.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web+mobile/boutir/web/store.png" alt="">
+
+                            <h5>Description</h5>
+                            <article>
+                                Boutir is the possibly the simplest shop builder available in market. You can start your online business in 3 mintues
+                            </article>
+                            <h5>Technology</h5>
+                            <article>
+                                cross-platform website, import hundreds of photos from Instagram, add YouTube Video to show case your Items, Reviews and Rating, Payment gateway integration
+                            </article>
+
+                            <h5>Links</h5>
+                            <a target="_blank" href="https://itunes.apple.com/hk/app/boutir/id917526274?mt=8">
+                                <img src="img/appstore.png">
+                            </a>
+                            <a target="_blank" href="https://play.google.com/store/apps/details?id=com.redso.boutir&hl=en">
+                                <img src="img/google_play.png">
+                            </a>
+                            <a target="_blank" href="https://www.boutir.com">
+                                <img src="img/web.png">
+                            </a>
+                            
+                            <ul class="list-inline">
+                                <li>Date: FEB 2015</li>
+                                <li>Client: Gary</li>
+                                <li>Category: Ruby&mobile, Shopify</li>
+                            </ul>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- englishradio portfolio modal -->
+    <div class="portfolio-modal modal fade" id="wm_englishradio" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>EnglishRadio</h2>
+                            <p class="item-intro text-muted">Android&iOS application for online streaming</p>
+
+                            <img class="img-responsive img-centered col-lg-6" src="img/portfolio/web+mobile/englishradio/mobile/1.png" alt="">
+                            <img class="img-responsive img-centered col-lg-6" src="img/portfolio/web+mobile/englishradio/mobile/2.png" alt="">
+                            <img class="img-responsive img-centered col-lg-6" src="img/portfolio/web+mobile/englishradio/mobile/3.png" alt="">
+                            <img class="img-responsive img-centered col-lg-6" src="img/portfolio/web+mobile/englishradio/mobile/4.png" alt="">
+                            <img class="img-responsive img-centered col-lg-6" src="img/portfolio/web+mobile/englishradio/mobile/5.png" alt="">
+                            <img class="img-responsive img-centered col-lg-6" src="img/portfolio/web+mobile/englishradio/mobile/6.png" alt="">
+                            <img class="img-responsive img-centered col-lg-6" src="img/portfolio/web+mobile/englishradio/mobile/7.png" alt="">
+                            <img class="img-responsive img-centered col-lg-6" src="img/portfolio/web+mobile/englishradio/mobile/8.png" alt="">
+                            <img class="img-responsive img-centered col-lg-6" src="img/portfolio/web+mobile/englishradio/mobile/9.png" alt="">
+                            <img class="img-responsive img-centered col-lg-6" src="img/portfolio/web+mobile/englishradio/mobile/10.png" alt="">
+
+                            <h5>Description</h5>
+                            <article>
+                                Improve your English listening and speaking skills. Meet new people and make friends all over the world.
+                            </article>
+                            <h5>Technology</h5>
+                            <article>
+                                Chat with your friends or with people online. Making friends has never been simpler.
+                                Free texting, voice messages, sending photos and customised animated stickers. Get message alerts instantly with push notifications.
+                                Share your moments, Like and comment on photos with your friends. Like and comment on blogs with everybody.
+                            </article>
+
+                            <h5>Links</h5>
+                            <a target="_blank" href="https://itunes.apple.com/us/app/english-radio-ielts-toefl/id724108987?mt=8">
+                                <img src="img/appstore.png">
+                            </a>
+                            <a target="_blank" href="https://play.google.com/store/apps/details?id=com.smartray.englishradio&hl=en">
+                                <img src="img/google_play.png">
+                            </a>
+                            
+                            <ul class="list-inline">
+                                <li>Date: March 2015</li>
+                                <li>Client: Kristy</li>
+                                <li>Category: Android&iOS, online chatting</li>
+                            </ul>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- hichat portfolio modal -->
+    <div class="portfolio-modal modal fade" id="wm_hichat" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>HiChat</h2>
+                            <p class="item-intro text-muted">Android&iOS project for video chat.</p>
+
+                            <div class="row">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/hichat/mobile/1.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/hichat/mobile/2.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/hichat/mobile/3.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/hichat/mobile/4.png" alt="">
+                            </div>
+                            
+                            <div class="row">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/hichat/mobile/5.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/hichat/mobile/6.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/hichat/mobile/7.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/hichat/mobile/8.png" alt="">
+                            </div>
+
+                            <div class="row">
+                                <img class="img-responsive img-centered col-lg-6" src="img/portfolio/web+mobile/hichat/mobile/9.png" alt="">
+                                <img class="img-responsive img-centered col-lg-6" src="img/portfolio/web+mobile/hichat/mobile/10.png" alt="">
+                            </div>
+
+                            <h5>Description</h5>
+                            <article>
+                                Say Hi can help you find new people nearby! It helps you find love by chat, meet and date new friends
+                            </article>
+                            <h5>Technology</h5>
+                            <article>
+                                Geolocation, VideoChat, VoiceMessage, Facebook api integration, emoji
+                            </article>
+
+                            <h5>Links</h5>
+                            <a target="_blank" href="https://itunes.apple.com/us/app/sayhi-chat-messenger-to-love/id469609836?mt=8">
+                                <img src="img/appstore.png">
+                            </a>
+                            <a target="_blank" href="https://play.google.com/store/apps/details?id=com.unearby.sayhi&hl=en">
+                                <img src="img/google_play.png">
+                            </a>
+                            
+                            <ul class="list-inline">
+                                <li>Date: Jan 2014</li>
+                                <li>Client: Larry</li>
+                                <li>Category: Android&iOS, video chat</li>
+                            </ul>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- meru portfolio modal -->
+    <div class="portfolio-modal modal fade" id="wm_meru" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Meru</h2>
+                            <p class="item-intro text-muted">Android&iOS taxi app</p>
+
+                            <div class="row">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/meru/mobile/1.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/meru/mobile/2.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/meru/mobile/3.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/meru/mobile/4.png" alt="">
+                            </div>
+                            
+                            <div class="row">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/meru/mobile/5.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/meru/mobile/6.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/meru/mobile/7.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/meru/mobile/8.png" alt="">
+                            </div>
+
+                            <h5>Description</h5>
+                            <article>
+                                It lets you book a taxi cab online in one click and pay through the highly convenient Wallet for a comfortable ride. And now the Meru Cabs app comes with an awesome new feature 
+                            </article>
+                            <h5>Technology</h5>
+                            <article>
+                                track cab, booking, GPS integration, driver details, Airport/Kerb Pickups, Carpool by Meru
+                            </article>
+
+                            <h5>Links</h5>
+                            <a target="_blank" href="https://itunes.apple.com/in/app/meru-cabs/id673009740?mt=8">
+                                <img src="img/appstore.png">
+                            </a>
+                            <a target="_blank" href="https://play.google.com/store/apps/details?id=com.winit.merucab&hl=en">
+                                <img src="img/google_play.png">
+                            </a>
+                            
+                            <ul class="list-inline">
+                                <li>Date: AUG 2014</li>
+                                <li>Client: Nicolas</li>
+                                <li>Category: Android&iOS, Taxi app</li>
+                            </ul>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- okcupid portfolio modal -->
+    <div class="portfolio-modal modal fade" id="wm_okcupid" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Okcupid</h2>
+                            <p class="item-intro text-muted">Android&iOS dating app</p>
+
+                            <div class="row">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/okcupid/mobile/1.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/okcupid/mobile/2.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/okcupid/mobile/3.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/okcupid/mobile/4.png" alt="">
+                            </div>
+                            
+                            <div class="row">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/okcupid/mobile/5.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/okcupid/mobile/6.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/okcupid/mobile/7.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/okcupid/mobile/8.png" alt="">
+                            </div>
+
+                            <h5>Description</h5>
+                            <article>
+                                OkCupid is the only dating app that finds you matches based on what you really care about…and it’s 100% FREE. 
+                            </article>
+                            <h5>Technology</h5>
+                            <article>
+                                Payment gateway, chatting
+                            </article>
+
+                            <h5>Links</h5>
+                            <a target="_blank" href="https://itunes.apple.com/us/app/okcupid-dating/id338701294?mt=8">
+                                <img src="img/appstore.png">
+                            </a>
+                            <a target="_blank" href="https://play.google.com/store/apps/details?id=com.okcupid.okcupid&hl=en">
+                                <img src="img/google_play.png">
+                            </a>
+                            
+                            <ul class="list-inline">
+                                <li>Date: SEP 2013</li>
+                                <li>Client: Jason</li>
+                                <li>Category: Android&iOS, dating app</li>
+                            </ul>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- oplayer portfolio modal -->
+    <div class="portfolio-modal modal fade" id="wm_oplayer" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Oplayer</h2>
+                            <p class="item-intro text-muted">Android/iOS, online streaming application</p>
+
+                            <div class="row">
+                                <img class="img-responsive img-centered col-lg-4" src="img/portfolio/web+mobile/oplayer/mobile/1.png" alt="">
+                                <img class="img-responsive img-centered col-lg-4" src="img/portfolio/web+mobile/oplayer/mobile/2.png" alt="">
+                                <img class="img-responsive img-centered col-lg-4" src="img/portfolio/web+mobile/oplayer/mobile/3.png" alt="">
+                            </div>
+
+                            <div class="row">
+                                <img class="img-responsive img-centered col-lg-4" src="img/portfolio/web+mobile/oplayer/mobile/4.png" alt="">
+                                <img class="img-responsive img-centered col-lg-4" src="img/portfolio/web+mobile/oplayer/mobile/5.png" alt="">
+                                <img class="img-responsive img-centered col-lg-4" src="img/portfolio/web+mobile/oplayer/mobile/6.png" alt="">
+                            </div>
+
+                            <div class="row">
+                                <img class="img-responsive img-centered col-lg-6" src="img/portfolio/web+mobile/oplayer/mobile/7.jpg" alt="">
+                                <img class="img-responsive img-centered col-lg-6" src="img/portfolio/web+mobile/oplayer/mobile/8.jpg" alt="">
+                            </div>
+
+                            <div class="row">
+                                <img class="img-responsive img-centered col-lg-6" src="img/portfolio/web+mobile/oplayer/mobile/9.jpg" alt="">
+                                <img class="img-responsive img-centered col-lg-6" src="img/portfolio/web+mobile/oplayer/mobile/10.jpg" alt="">
+                            </div>
+
+                            <h5>Description</h5>
+                            <article>
+                                OPlayer is used to boost your iPhone/iPod's media abilities, you can also use it to streaming audio and video over the internet.
+                            </article>
+                            <h5>Technology</h5>
+                            <article>
+                                - XVID/DIVX AVI, WMV, RMVB, ASF, H264, MKV, TS, M2TS... most of all movie file formats.</br>
+                                - MP3, WMA, WAV, OGG, FLAC... most of all audio file formats.</br>
+                                - SMI, ASS, SUB, SRT, TXT... most of all subtitle file formats.</br>
+                            </article>
+
+                            <h5>Links</h5>
+                            <a target="_blank" href="https://itunes.apple.com/us/app/media-player-oplayer-lite/id385907472?mt=8">
+                                <img src="img/appstore.png">
+                            </a>
+                            <a target="_blank" href="https://play.google.com/store/apps/details?id=com.olimsoft.android.oplayer&hl=en">
+                                <img src="img/google_play.png">
+                            </a>
+                            
+                            <ul class="list-inline">
+                                <li>Date: July 2014</li>
+                                <li>Client: Maria</li>
+                                <li>Category: Android/iOS, online streaming</li>
+                            </ul>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- taxi portfolio modal -->
+    <div class="portfolio-modal modal fade" id="wm_taxi" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Taxi</h2>
+                            <p class="item-intro text-muted">ROR&mobile taxi app</p>
+
+                            <h5>Android/IOS</h5>
+                            <div class="row">
+                                <img class="img-responsive img-centered col-lg-6" src="img/portfolio/web+mobile/taxi/mobile/1.png" alt="">
+                                <img class="img-responsive img-centered col-lg-6" src="img/portfolio/web+mobile/taxi/mobile/2.png" alt="">
+                            </div>
+
+                            <div class="row">
+                                <img class="img-responsive img-centered col-lg-6" src="img/portfolio/web+mobile/taxi/mobile/3.png" alt="">
+                                <img class="img-responsive img-centered col-lg-6" src="img/portfolio/web+mobile/taxi/mobile/4.png" alt="">
+                            </div>
+
+                            <h5>Web</h5>
+                            <img class="img-responsive img-centered" src="img/portfolio/web+mobile/taxi/web/driver.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web+mobile/taxi/web/home.png" alt="">
+
+                            <h5>Description</h5>
+                            <article>
+                                Taxi app in San Francisco, Los Angeles, Seattle, Sacramento, San Diego.
+                                Request a cab, watch it come to you, get notified when it arrives, and pay automatically with your smartphone.
+                            </article>
+                            <h5>Technology</h5>
+                            <article>
+                                Braintree Payment gateway integration, Paypal, in-app purchase in mobile, driver registration, 
+                                blog notification
+                            </article>
+
+                            <h5>Links</h5>
+                            <a target="_blank" href="https://itunes.apple.com/us/app/flywheel/id584165682?ls=1&mt=8">
+                                <img src="img/appstore.png">
+                            </a>
+                            <a target="_blank" href="https://play.google.com/store/apps/details?id=com.upstartmobile.Cabulous">
+                                <img src="img/google_play.png">
+                            </a>
+                            <a target="_blank" href="http://www.flywheel.com/">
+                                <img src="img/web.png">
+                            </a>
+                            
+                            <ul class="list-inline">
+                                <li>Date: Jan 2015</li>
+                                <li>Client: Boris</li>
+                                <li>Category: Web&mobile, Taxi app</li>
+                            </ul>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- twoo portfolio modal -->
+    <div class="portfolio-modal modal fade" id="wm_twoo" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Twoo</h2>
+                            <p class="item-intro text-muted">ROR, social dating site.</p>
+
+                            <h5>Android/iOS</h5>
+                            <div class="row">
+                                <img class="img-responsive img-centered col-lg-4" src="img/portfolio/web+mobile/twoo/mobile/1.png" alt="">
+                                <img class="img-responsive img-centered col-lg-4" src="img/portfolio/web+mobile/twoo/mobile/2.png" alt="">
+                                <img class="img-responsive img-centered col-lg-4" src="img/portfolio/web+mobile/twoo/mobile/3.png" alt="">
+                            </div>
+
+                            <div class="row">
+                                <img class="img-responsive img-centered col-lg-4" src="img/portfolio/web+mobile/twoo/mobile/4.png" alt="">
+                                <img class="img-responsive img-centered col-lg-4" src="img/portfolio/web+mobile/twoo/mobile/5.png" alt="">
+                                <img class="img-responsive img-centered col-lg-4" src="img/portfolio/web+mobile/twoo/mobile/6.png" alt="">
+                            </div>
+
+                            <div class="row">
+                                <img class="img-responsive img-centered col-lg-6" src="img/portfolio/web+mobile/twoo/mobile/7.png" alt="">
+                                <img class="img-responsive img-centered col-lg-6" src="img/portfolio/web+mobile/twoo/mobile/8.png" alt="">
+                            </div>
+
+                            <div class="row">
+                                <img class="img-responsive img-centered col-lg-6" src="img/portfolio/web+mobile/twoo/mobile/9.png" alt="">
+                                <img class="img-responsive img-centered col-lg-6" src="img/portfolio/web+mobile/twoo/mobile/10.png" alt="">
+                            </div>
+
+                            <div class="row">
+                                <img class="img-responsive img-centered col-lg-6" src="img/portfolio/web+mobile/twoo/mobile/11.png" alt="">
+                                <img class="img-responsive img-centered col-lg-6" src="img/portfolio/web+mobile/twoo/mobile/12.png" alt="">
+                            </div>
+
+                            <h5>Web</h5>
+                            <img class="img-responsive img-centered" src="img/portfolio/web+mobile/twoo/web/chatting.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web+mobile/twoo/web/credit_card.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web+mobile/twoo/web/dashboard.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web+mobile/twoo/web/login.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web+mobile/twoo/web/paypal.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio/web+mobile/twoo/web/select.png" alt="">
+
+                            <h5>Description</h5>
+                            <article>This is a social dating site.
+                            </article>
+                            <h5>Technology</h5>
+                            <article>Mail confirm, Paypal, credit card, connect with Facebook, Google+, Chatting, Hotmail, Skype, Facebook, Yahoo, Gmail, Google+ api</article>
+
+                            <h5>Links</h5>
+                            <a target="_blank" href="https://www.twoo.com/">
+                                <img src="img/web.png">
+                            </a>
+                            
+                            <ul class="list-inline">
+                                <li>Date: AUG 2014</li>
+                                <li>Client: Daphne</li>
+                                <li>Category: Ruby&Mobile, dating app</li>
+                            </ul>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- viber portfolio modal -->
+    <div class="portfolio-modal modal fade" id="wm_viber" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Viber</h2>
+                            <p class="item-intro text-muted">Android&iOS SMS/Video calling app.</p>
+
+                            <div class="row">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/viber/mobile/1.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/viber/mobile/2.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/viber/mobile/3.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/viber/mobile/4.png" alt="">
+                            </div>
+
+                            <div class="row">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/viber/mobile/5.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/viber/mobile/6.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/viber/mobile/7.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/viber/mobile/8.png" alt="">
+                            </div>
+
+                            <h5>Description</h5>
+                            <article>
+                                With Viber, everyone in the world can connect. Freely
+                            </article>
+                            <h5>Technology</h5>
+                            <article>
+                                phone call, SMS, video/audio calling via wifi, Share photo and video, Follow, Delete message, push notification, iCloud access, QR scan
+                            </article>
+
+                            <h5>Links</h5>
+                            <a target="_blank" href="https://itunes.apple.com/en/app/viber/id382617920?mt=8">
+                                <img src="img/appstore.png">
+                            </a>
+                            <a target="_blank" href="https://play.google.com/store/apps/details?id=com.viber.voip&hl=en">
+                                <img src="img/google_play.png">
+                            </a>
+                            
+                            <ul class="list-inline">
+                                <li>Date: OCT 2015</li>
+                                <li>Client: Bill</li>
+                                <li>Category: Android&iOS, SMS/Video calling</li>
                             </ul>
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                         </div>
