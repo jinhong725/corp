@@ -659,7 +659,7 @@
                     <div class="team-member">
                         <img src="img/team/linus_frank.png" class="img-responsive img-circle" alt="">
                         <h4>Linus Frank</h4>
-                        <p class="text-muted">Founder, CEO</p>
+                        <p class="text-muted">CEO</p>
                         <!-- <ul class="list-inline social-buttons">
                             <li><a href="#"><i class="fa fa-twitter"></i></a>
                             </li>
@@ -669,14 +669,7 @@
                             </li>
                         </ul> -->
                     </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="team-member">
-                        <img src="img/team/armen_diprizio.png" class="img-responsive img-circle" alt="">
-                        <h4>Theo Braun</h4>
-                        <p class="text-muted">Co-founder, CTO</p>
-                    </div>
-                </div>
+                </div>                
                 <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/jin_hong.png" class="img-responsive img-circle" alt="">
@@ -686,18 +679,11 @@
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="img/team/adal_wulf.png" class="img-responsive img-circle" alt="">
-                        <h4>Adal Wulf</h4>
-                        <p class="text-muted">Lead Developer</p>
-                    </div>
-                </div>
-                <!-- <div class="col-sm-4">
-                    <div class="team-member">
                         <img src="img/team/arimon_frank.png" class="img-responsive img-circle" alt="">
                         <h4>Arimon Frank</h4>
                         <p class="text-muted">Lead Developer</p>
                     </div>
-                </div> -->
+                </div>
                 <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/amelie_berg.png" class="img-responsive img-circle" alt="">
@@ -705,34 +691,34 @@
                         <p class="text-muted">Hybrid developer</p>
                     </div>
                 </div> -->
-                <!-- <div class="col-sm-4">
+                <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/adolf_miller.png" class="img-responsive img-circle" alt="">
                         <h4>Adolf Miller</h4>
                         <p class="text-muted">Social Programmer</p>
                     </div>
-                </div> -->
-                <div class="col-sm-4">
+                </div>
+                <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/cam_ceren.png" class="img-responsive img-circle" alt="">
                         <h4>Cam Ceren</h4>
                         <p class="text-muted">Mobile Programmer</p>
                     </div>
-                </div>
-                <div class="col-sm-4">
+                </div> -->
+                <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/cristian_portice.png" class="img-responsive img-circle" alt="">
                         <h4>Cristian Portice</h4>
                         <p class="text-muted">ROR Expert</p>
                     </div>
-                </div>
-                <!-- <div class="col-sm-4">
+                </div> -->
+                <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/gool_wulf.png" class="img-responsive img-circle" alt="">
                         <h4>Gool Wulf</h4>
                         <p class="text-muted">IONIC Developer</p>
                     </div>
-                </div> -->                
+                </div>                
                 <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/lena_bach.png" class="img-responsive img-circle" alt="">
@@ -868,7 +854,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <span class="copyright">Copyright &copy; Lion Linus Velen Corporation</span>
+                    <span class="copyright">Copyright &copy; 2016 Lion Linus Velen Corporation</span>
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline social-buttons">
