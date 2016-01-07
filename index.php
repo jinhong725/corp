@@ -712,13 +712,13 @@
                         <p class="text-muted">ROR Expert</p>
                     </div>
                 </div> -->
-                <div class="col-sm-4">
+                <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/gool_wulf.png" class="img-responsive img-circle" alt="">
                         <h4>Gool Wulf</h4>
                         <p class="text-muted">IONIC Developer</p>
                     </div>
-                </div>                
+                </div> -->                
                 <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/lena_bach.png" class="img-responsive img-circle" alt="">
@@ -726,13 +726,13 @@
                         <p class="text-muted">Android Developer</p>
                     </div>
                 </div> -->
-                <!-- <div class="col-sm-4">
+                <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/linus_koch.png" class="img-responsive img-circle" alt="">
                         <h4>Linus Koch</h4>
-                        <p class="text-muted">Android Firmware Expert</p>
+                        <p class="text-muted">IOS/Android developer</p>
                     </div>
-                </div> -->
+                </div>
                 <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/lotta_dietrich.png" class="img-responsive img-circle" alt="">
