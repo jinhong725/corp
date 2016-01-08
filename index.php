@@ -758,7 +758,7 @@
                     <div class="team-member">
                         <img src="img/team/nick_baum.png" class="img-responsive img-circle" alt="">
                         <h4>Nick Baum</h4>
-                        <p class="text-muted">Linux Kernel Developer</p>
+                        <p class="text-muted">IOS/Android developer</p>
                     </div>
                 </div>
                 <!-- <div class="col-sm-4">
