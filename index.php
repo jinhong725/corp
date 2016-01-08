@@ -380,7 +380,7 @@
                     </div>
                 </div>
 
-                <!-- <div class="col-md-4 col-sm-6 portfolio-item">
+                <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#web_productreview" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
@@ -393,7 +393,7 @@
                         <h4>Productreview</h4>
                         <p class="text-muted">Ruby, e-commerce</p>
                     </div>
-                </div> -->
+                </div>
 
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#web_starfall" class="portfolio-link" data-toggle="modal">
@@ -674,7 +674,7 @@
                     <div class="team-member">
                         <img src="img/team/jin_hong.png" class="img-responsive img-circle" alt="">
                         <h4>Jin Hong</h4>
-                        <p class="text-muted">Linux System Administrator</p>
+                        <p class="text-muted">Ruby on Rails expert</p>
                     </div>
                 </div>
                 <!-- <div class="col-sm-4">
