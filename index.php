@@ -733,13 +733,13 @@
                         <p class="text-muted">IOS/Android developer</p>
                     </div>
                 </div> -->
-                <!-- <div class="col-sm-4">
+                <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/lotta_dietrich.png" class="img-responsive img-circle" alt="">
                         <h4>Lotta Dietrich</h4>
                         <p class="text-muted">IOS Developer</p>
                     </div>
-                </div> -->
+                </div>
                 <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/max_adler.png" class="img-responsive img-circle" alt="">
@@ -754,13 +754,13 @@
                         <p class="text-muted">Mobile programmer</p>
                     </div>
                 </div> -->
-                <div class="col-sm-4">
+                <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/nick_baum.png" class="img-responsive img-circle" alt="">
                         <h4>Nick Baum</h4>
                         <p class="text-muted">IOS/Android developer</p>
                     </div>
-                </div>
+                </div> -->
                 <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/tim_amsel.png" class="img-responsive img-circle" alt="">
