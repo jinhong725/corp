@@ -6,8 +6,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="LLVC is an International web and mobile development group. They are growing in popularity as an amazing team.">
+    <meta name="author" content="Jin Hong">
 
     <title>LLVC</title>
     <link rel="shortcut icon" href="img/small_mark.png" />
@@ -719,13 +719,13 @@
                         <p class="text-muted">IONIC Developer</p>
                     </div>
                 </div> -->
-                <div class="col-sm-4">
+                <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/lena_bach.png" class="img-responsive img-circle" alt="">
                         <h4>Lena Bach</h4>
                         <p class="text-muted">Android Developer</p>
                     </div>
-                </div>
+                </div> -->
                 <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/linus_koch.png" class="img-responsive img-circle" alt="">
@@ -747,13 +747,13 @@
                         <p class="text-muted">V/A Chatting Expert</p>
                     </div>
                 </div> -->
-                <!-- <div class="col-sm-4">
+                <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/mila_eichel.png" class="img-responsive img-circle" alt="">
                         <h4>Mila Eichel</h4>
                         <p class="text-muted">Mobile programmer</p>
                     </div>
-                </div> -->
+                </div>
                 <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/nick_baum.png" class="img-responsive img-circle" alt="">
