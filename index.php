@@ -160,7 +160,7 @@
         <div class="container">   
             <div class="intro-text">
                 <div class="intro-lead-in">Welcome To Visit Our Team!</div>
-                <div class="intro-heading">10% Discount For Long-term Project</div>
+                <div class="intro-heading">10% Discount Today</div>
                 <a href="#services" class="page-scroll btn btn-xl">Tell You More</a>
             </div>
         </div>
