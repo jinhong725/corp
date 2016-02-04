@@ -691,13 +691,13 @@
                         <p class="text-muted">Hybrid developer</p>
                     </div>
                 </div> -->
-                <!-- <div class="col-sm-4">
+                <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/adolf_miller.png" class="img-responsive img-circle" alt="">
                         <h4>Adolf Miller</h4>
                         <p class="text-muted">Social Programmer</p>
                     </div>
-                </div> -->
+                </div>
                 <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/cam_ceren.png" class="img-responsive img-circle" alt="">
@@ -761,13 +761,13 @@
                         <p class="text-muted">IOS/Android developer</p>
                     </div>
                 </div> -->
-                <div class="col-sm-4">
+                <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/chetwerd_pedersen.png" class="img-responsive img-circle" alt="">
                         <h4>Chetwerd Pedersen</h4>
                         <p class="text-muted">Ruby on Rails developer</p>
                     </div>
-                </div>
+                </div> -->
                 <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/tim_amsel.png" class="img-responsive img-circle" alt="">
