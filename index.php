@@ -698,13 +698,13 @@
                         <p class="text-muted">Social Programmer</p>
                     </div>
                 </div>
-                <div class="col-sm-4">
+                <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/cam_ceren.png" class="img-responsive img-circle" alt="">
                         <h4>Cam Ceren</h4>
                         <p class="text-muted">Mobile Programmer</p>
                     </div>
-                </div>
+                </div> -->
                 <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/cristian_portice.png" class="img-responsive img-circle" alt="">
@@ -712,13 +712,13 @@
                         <p class="text-muted">ROR Expert</p>
                     </div>
                 </div> -->
-                <!-- <div class="col-sm-4">
+                <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/gool_wulf.png" class="img-responsive img-circle" alt="">
                         <h4>Gool Wulf</h4>
                         <p class="text-muted">IONIC Developer</p>
                     </div>
-                </div> -->
+                </div>
                 <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/lena_bach.png" class="img-responsive img-circle" alt="">
