@@ -12,8 +12,8 @@ if(empty($_POST['name'])  		||
 }
 
 
-$api_user = "michael-fine";
-$api_key = "admin123";
+$api_user = "";
+$api_key = "";
 
 $sendgrid = new SendGrid($api_user, $api_key);
 $email    = new SendGrid\Email();
@@ -37,5 +37,5 @@ $email->addTo($to)
 
 $sendgrid->send($email);
 
-return true;			
+return true;
 ?>
