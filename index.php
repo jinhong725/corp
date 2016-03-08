@@ -712,13 +712,13 @@
                         <p class="text-muted">ROR Expert</p>
                     </div>
                 </div> -->
-                <div class="col-sm-4">
+                <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/gool_wulf.png" class="img-responsive img-circle" alt="">
                         <h4>Gool Wulf</h4>
                         <p class="text-muted">IONIC Developer</p>
                     </div>
-                </div>
+                </div> -->
                 <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/lena_bach.png" class="img-responsive img-circle" alt="">
@@ -768,13 +768,13 @@
                         <p class="text-muted">Ruby on Rails developer</p>
                     </div>
                 </div> -->
-                <!-- <div class="col-sm-4">
+                <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/tim_amsel.png" class="img-responsive img-circle" alt="">
                         <h4>Tim Amsel</h4>
                         <p class="text-muted">Mobile programmer</p>
                     </div>
-                </div> -->
+                </div>
             </div>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
