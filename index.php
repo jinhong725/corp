@@ -276,21 +276,6 @@
                 </div>
                 
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#web_gp2u" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/ios/gp2u/gp2u_preview.png" class="img-responsive" alt="">
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>GP2U</h4>
-                        <p class="text-muted">web & mobile, doctor consultant</p>
-                    </div>
-                </div>
-                
-                <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#ios_opentok" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
@@ -1124,50 +1109,6 @@
                                 <li>Date: AUG 2010</li>
                                 <li>Client: Ben</li>
                                 <li>Category: IOS, video/photo sharing</li>
-                            </ul>
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- gp2u Modal 6 -->
-    <div class="portfolio-modal modal fade" id="web_gp2u" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <!-- Project Details Go Here -->
-                            <h2>GP2U</h2>
-                            <p class="item-intro text-muted">Web & Mobile</p>
-                            <img class="img-responsive img-centered" src="img/portfolio/ios/gp2u/gp2u_web.png" alt="">
-
-                            <img class="img-responsive img-centered col-lg-6" src="img/portfolio/ios/gp2u/2.jpeg" alt="">
-                            <img class="img-responsive img-centered col-lg-6" src="img/portfolio/ios/gp2u/3.jpeg" alt="">
-                            <img class="img-responsive img-centered col-lg-6" src="img/portfolio/ios/gp2u/4.jpeg" alt="">
-                            <img class="img-responsive img-centered col-lg-6" src="img/portfolio/ios/gp2u/5.jpeg" alt="">                 
-                            
-                            <h5>Description</h5>
-                            <article>With GP2U you can see a doctor or allied health professional online via video conference.</article>
-                            <h5>Technology</h5>
-                            <article>opentock sdk, geolocation, video contact, login with Facebook, twitter, linkedin, Google+</article>
-                            <h5>Links</h5>
-                            <a target="_blank" href="https://itunes.apple.com/de/app/gp2u-telehealth-online-doctors/id625961235?mt=8"><img src="img/appstore.png"></a>
-                            <a target="_blank" href="https://play.google.com/store/apps/details?id=com.hugemobile.activity&hl=de"><img src="img/google_play.png"></a>
-                            <a target="_blank" href="https://gp2u.com.au/"><img src="img/web.png"></a>
-                            <ul class="list-inline">
-                                <li>Date: MAR 2011</li>
-                                <li>Client: James</li>
-                                <li>Category: web&mobile, doctor consultant</li>
                             </ul>
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                         </div>
