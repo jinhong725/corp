@@ -683,13 +683,13 @@
                         <p class="text-muted">Android Developer</p>
                     </div>
                 </div> -->
-                <!-- <div class="col-sm-4">
+                <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/linus_koch.png" class="img-responsive img-circle" alt="">
                         <h4>Linus Koch</h4>
                         <p class="text-muted">IOS/Android developer</p>
                     </div>
-                </div> -->
+                </div>
                 <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/max_adler.png" class="img-responsive img-circle" alt="">
@@ -697,13 +697,13 @@
                         <p class="text-muted">V/A Chatting Expert</p>
                     </div>
                 </div> -->
-                <div class="col-sm-4">
+                <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/mila_eichel.png" class="img-responsive img-circle" alt="">
                         <h4>Mila Eichel</h4>
                         <p class="text-muted">Mobile programmer</p>
                     </div>
-                </div>
+                </div> -->
                 <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/chetwerd_pedersen.png" class="img-responsive img-circle" alt="">
