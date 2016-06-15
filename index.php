@@ -1941,10 +1941,10 @@
                             </div>
 
                             <div class="row">
-                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/bitesizeguru/mobile/1.png" alt="">
-                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/bitesizeguru/mobile/2.png" alt="">
-                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/bitesizeguru/mobile/3.png" alt="">
-                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/bitesizeguru/mobile/4.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/bitesizeguru/mobile/1.PNG" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/bitesizeguru/mobile/2.PNG" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/bitesizeguru/mobile/3.PNG" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/bitesizeguru/mobile/4.PNG" alt="">
                             </div>
 
                             <h5>Description</h5>
