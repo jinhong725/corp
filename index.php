@@ -140,12 +140,6 @@
                         <a class="page-scroll" href="#portfolio">Portfolio</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#about">About</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#team">Contributors</a>
-                    </li>
-                    <li>
                         <a class="page-scroll" href="#contact">Contact</a>
                     </li>
                 </ul>
@@ -545,208 +539,24 @@
                     </div>
                 </div>
 
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#wm_bitesizeguru" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/web+mobile/bitesizeguru/bitesizeguru_preview.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Bitesize Guru</h4>
+                        <p class="text-muted">Ruby, iOS, notification</p>
+                    </div>
+                </div>
+
             </div>
         </div>
     </section>
-
-    <!-- About Section -->
-    <section id="about">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">About</h2>
-                    <h3 class="section-subheading text-muted">We are an international web&mobile development team which specialize in Web service, social, video/voice chatting, Android firmware.</h3>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-12">
-                    <ul class="timeline">
-                        <li>
-                            <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/1.png" alt="">
-                            </div>
-                            <div class="timeline-panel">
-                                <div class="timeline-heading">
-                                    <h4>2009-2011</h4>
-                                    <h4 class="subheading">Our Humble Beginnings</h4>
-                                </div>
-                                <div class="timeline-body">
-                                    <p class="text-muted">Linus and Theo had been friends in Universität Hamburg. They had both been interested in Linux security. They kept in touch after graduation, and decided to design a new Secure Linux Service based on SELinux. Their service had been accepted as very robust at Web port attack from serveral companies.</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="timeline-inverted">
-                            <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/born.gif" alt="">
-                            </div>
-                            <div class="timeline-panel">
-                                <div class="timeline-heading">
-                                    <h4>March 2011</h4>
-                                    <h4 class="subheading">An Agency is Born</h4>
-                                </div>
-                                <div class="timeline-body">
-                                    <p class="text-muted">Our team was born in March 2011 with 5 members and started the web service management with security. Our team had managed 15+ web servers and handled many daily problems successfully.</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/3.jpg" alt="">
-                            </div>
-                            <div class="timeline-panel">
-                                <div class="timeline-heading">
-                                    <h4>December 2012</h4>
-                                    <h4 class="subheading">Transition to Web & Mobile Service</h4>
-                                </div>
-                                <div class="timeline-body">
-                                    <p class="text-muted">Most of companies had wanted a new mobile version for their services. From then we designed a new branch, REST API service, and started the mobile application development related to the Social and V/A online chatting. Now we are growing in popularity as a talented web & mobile development team.</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="timeline-inverted">
-                            <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/upgrade.gif" alt="">
-                            </div>
-                            <div class="timeline-panel">
-                                <div class="timeline-heading">
-                                    <h4>July 2014</h4>
-                                    <h4 class="subheading">Phase new branch, Android Firmware</h4>
-                                </div>
-                                <div class="timeline-body">
-                                    <p class="text-muted">The 5 years of experiences in developing Linux and Android leaded us to the Android Firmware development. Now we are developing a specific products even with it's driver if needed.</p>
-                                </div>
-                            </div>
-                        </li>
-                        <!-- <li class="timeline-inverted">
-                            <div class="timeline-image">
-                                <h4>Be Part
-                                    <br>Of Our
-                                    <br>Story!</h4>
-                            </div>
-                        </li> -->
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Team Section -->
-    <section id="team" class="bg-light-gray">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Our Amazing Team</h2>
-                    <h3 class="section-subheading text-muted">International Development Team</h3>
-                </div>
-            </div>
-            <div class="row">
-                <!-- <div class="col-sm-4">
-                    <div class="team-member">
-                        <img src="img/team/linus_frank.png" class="img-responsive img-circle" alt="">
-                        <h4>Linus Frank</h4>
-                        <p class="text-muted">CEO</p>
-                        <ul class="list-inline social-buttons">
-                            <li><a href="#"><i class="fa fa-twitter"></i></a>
-                            </li>
-                            <li><a href="#"><i class="fa fa-facebook"></i></a>
-                            </li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div> -->                
-                <!-- <div class="col-sm-4">
-                    <div class="team-member">
-                        <img src="img/team/jin_hong.png" class="img-responsive img-circle" alt="">
-                        <h4>Jin H.</h4>
-                        <p class="text-muted">Ruby on Rails expert</p>
-                    </div>
-                </div> -->
-                <!-- <div class="col-sm-4">
-                    <div class="team-member">
-                        <img src="img/team/arimon_frank.png" class="img-responsive img-circle" alt="">
-                        <h4>Arimon Frank</h4>
-                        <p class="text-muted">Lead Developer</p>
-                    </div>
-                </div> -->
-                <!-- <div class="col-sm-4">
-                    <div class="team-member">
-                        <img src="img/team/amelie_berg.png" class="img-responsive img-circle" alt="">
-                        <h4>Amelie Berg</h4>
-                        <p class="text-muted">Hybrid developer</p>
-                    </div>
-                </div> -->
-                <div class="col-sm-4">
-                    <div class="team-member">
-                        <img src="img/team/lena_bach.png" class="img-responsive img-circle" alt="">
-                        <h4>Lena Bach</h4>
-                        <p class="text-muted">Android Developer</p>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="team-member">
-                        <img src="img/team/linus_koch.png" class="img-responsive img-circle" alt="">
-                        <h4>Linus Koch</h4>
-                        <p class="text-muted">IOS/Android developer</p>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="team-member">
-                        <img src="img/team/max_adler.png" class="img-responsive img-circle" alt="">
-                        <h4>Max Adler</h4>
-                        <p class="text-muted">V/A Chatting Expert</p>
-                    </div>
-                </div>
-                <!-- <div class="col-sm-4">
-                    <div class="team-member">
-                        <img src="img/team/mila_eichel.png" class="img-responsive img-circle" alt="">
-                        <h4>Mila Eichel</h4>
-                        <p class="text-muted">Mobile programmer</p>
-                    </div>
-                </div> -->
-                <!-- <div class="col-sm-4">
-                    <div class="team-member">
-                        <img src="img/team/chetwerd_pedersen.png" class="img-responsive img-circle" alt="">
-                        <h4>Chetwerd Pedersen</h4>
-                        <p class="text-muted">Ruby on Rails developer</p>
-                    </div>
-                </div> -->
-            </div>
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <p class="large text-muted">Please don't hesitate to contact us. We will find out our pleasure from your success.</p>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Clients Aside -->
-    <aside class="clients">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-3 col-sm-6">
-                    <!-- <a href="#team"> -->
-                        <img src="img/logos/envato.jpg" class="img-responsive img-centered" alt="">
-                    <!-- </a> -->
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <!-- <a href="#team"> -->
-                        <img src="img/logos/designmodo.jpg" class="img-responsive img-centered" alt="">
-                    <!-- </a> -->
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <!-- <a href="#team"> -->
-                        <img src="img/logos/themeforest.jpg" class="img-responsive img-centered" alt="">
-                    <!-- </a> -->
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <!-- <a href="#team"> -->
-                        <img src="img/logos/creative-market.jpg" class="img-responsive img-centered" alt="">
-                    <!-- </a> -->
-                </div>
-            </div>
-        </div>
-    </aside>
     
     <!-- Contact Section -->
     <section id="contact">
@@ -797,7 +607,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <span class="copyright">Copyright &copy; 2016 Lion Linus Velen Corporation</span>
+                    <span class="copyright">Copyright &copy; 2016 LLVC</span>
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline social-buttons">
@@ -2096,6 +1906,70 @@
                                 <li>Date: OCT 2015</li>
                                 <li>Client: Bill</li>
                                 <li>Category: Android&iOS, SMS/Video calling</li>
+                            </ul>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- bitesizeguru portfolio modal -->
+    <div class="portfolio-modal modal fade" id="wm_bitesizeguru" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Bitesize Guru</h2>
+                            <p class="item-intro text-muted">Ruby on rails and iOS notification app.</p>
+
+                            <div class="row">
+                                <img class="img-responsive img-centered col-lg-12" src="img/portfolio/web+mobile/bitesizeguru/web/backend.png" alt="">                           
+                            </div>
+
+                            <div class="row">
+                                <img class="img-responsive img-centered col-lg-12" src="img/portfolio/web+mobile/bitesizeguru/web/frontend.png" alt="">
+                            </div>
+
+                            <div class="row">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/bitesizeguru/mobile/1.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/bitesizeguru/mobile/2.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/bitesizeguru/mobile/3.png" alt="">
+                                <img class="img-responsive img-centered col-lg-3" src="img/portfolio/web+mobile/bitesizeguru/mobile/4.png" alt="">
+                            </div>
+
+                            <h5>Description</h5>
+                            <article>
+                                This is web + mobile platform for someone who needs samll knowledge sometimes.
+                                The backend services the snippet by notification automatically according to the booking time.
+                                The backend is hosted on digital ocean.
+                            </article>
+                            <h5>Technology</h5>
+                            <article>
+                                ruby on rails, resque, grocer, notification, RESTful API
+                            </article>
+
+                            <h5>Links</h5>
+                            <a target="_blank" href="https://itunes.apple.com/ca/app/bitesize-guru/id1091439005?mt=8&ign-mpt=uo%3D4">
+                                <img src="img/appstore.png">
+                            </a>
+                            <a target="_blank" href="http://bitesize.guru/">
+                                <img src="img/web.png">
+                            </a>                            
+                            
+                            <ul class="list-inline">
+                                <li>Date: May 2016</li>
+                                <li>Client: Raphael</li>
+                                <li>Category: iOS, Ruby on rails, notification</li>
                             </ul>
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                         </div>
