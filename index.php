@@ -6,10 +6,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="LLVC is an International web and mobile development group. They are growing in popularity as an amazing team.">
+    <meta name="description" content="App Creation is an International web and mobile development group. They are growing in popularity as an amazing team.">
     <meta name="author" content="Jin Hong">
 
-    <title>LLVC</title>
+    <title>App Creation</title>
     <link rel="shortcut icon" href="img/small_mark.png" />
 
     <!-- Bootstrap Core CSS -->
