@@ -124,7 +124,17 @@
                     <span class="icon-bar"></span>
                 </button>
 
-                <a class="navbar-brand page-scroll" href="#page-top">LLVC</a>
+                <a class="navbar-brand page-scroll" style="padding: 0 20px;" href="#page-top">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <img src="img/site_mark.PNG" class="img-responsive" />
+                        </li>
+                        <li class="title">
+                            Apps Creation
+                        </li>
+                    </ul>
+                    
+                </a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -165,34 +175,55 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Services</h2>
-                    <h3 class="section-subheading text-muted">Our services offering ranges from UX design to complex social network development. Just check out all of the service lists below to get a general idea of what we are capable of delivering. And make sure to see our portfolio for proof of our awesomeness.</h3>
+                    <h2 class="section-heading">Build your dream App in four steps</h2>                   
                 </div>
             </div>
             <div class="row text-center">
-                <div class="col-md-4">
+                <div class="col-md-6">
                     <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-tablet fa-stack-1x fa-inverse"></i>
+                        <img src="img/icon1_wireframe.PNG" class="img-responsive img-circle" />
                     </span>
-                    <h4 class="service-heading">iOS/Android App</h4>
-                    <p class="text-muted">We develop iOS/Android applications related to the Voice/Audio chatting, Video conference, Social, Online Mediaplayer, Online Dating, Third Party Integration.</p>
+                    <h4 class="service-heading">Wireframe / UI design</h4>
+                    <ul class="text-left center">
+                      <li>Making of Mobile App Specification</li>
+                      <li>UI design by using photoshop</li>
+                      <li>Wireframe in the www.invisionapp.com</li>
+                    </ul>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-6">
                     <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+                        <img src="img/icon1_mobile.PNG" class="img-responsive img-circle" />
                     </span>
-                    <h4 class="service-heading">Responsive Web/Mobile API</h4>
-                    <p class="text-muted">We develop E-Commerce, Shopping, Dating web sites with responsive and robust UI. We also provide the REST Web APIs for Mobile applications.</p>
+                    <h4 class="service-heading">Mobile App / Web API</h4>
+                    <ul class="text-left center">
+                      <li>iOS App development on Xcode</li>
+                      <li>Android App development on Eclipse and Android Studio</li>
+                      <li>Web API development by using Parse, AWS, Ruby on Rails and PHP</li>
+                    </ul>
                 </div>
-                <div class="col-md-4">
+            </div>
+            <div class="row text-center">
+                <div class="col-md-6">
                     <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
+                        <img src="img/icon1_test.PNG" class="img-responsive img-circle" />
                     </span>
-                    <h4 class="service-heading">Linux System Administration</h4>
-                    <p class="text-muted">We can help you to manage your services in Ubunt, Cent OS, AWS, Heroku, Digital Ocean. We are very experienced in Service Deploying, DB Management, E-Mail Service, Network Security.</p>
+                    <h4 class="service-heading">Testing / Bug Fixing</h4>
+                    <ul class="text-left center">
+                      <li>App testing by multi users of team</li>
+                      <li>Bug Report by Craslytics of Fabric.io</li>
+                      <li>Fast bug fixing and building app with free bug</li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <span class="fa-stack fa-4x">
+                        <img src="img/icon1_publish.PNG" class="img-responsive img-circle" />
+                    </span>
+                    <h4 class="service-heading">Submitting / Publishing</h4>
+                    <ul class="text-left center">
+                      <li>iOS app submitting to App Store</li>
+                      <li>Android app publishing to Google Play Store</li>
+                      <li>Wireframe in the www.invisionapp.com</li>
+                    </ul>
                 </div>
             </div>
         </div>
@@ -607,17 +638,17 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <span class="copyright">Copyright &copy; 2016 LLVC</span>
+                    <span class="copyright">App Creation Tech &copy; All rights reserved 2016</span>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-8">
                     <ul class="list-inline social-buttons">
                         <li><a href="#contact"><i class="fa fa-skype"></i></a>
                         </li>
-                        <li>llvc.1986
+                        <li>apps.creation.tech
                         </li>
                         <li><a href="#contact"><i class="fa fa-envelope"></i></a>
                         </li>
-                        <li>llvc1986@outlook.com
+                        <li>apps.creation.tech@hotmail.com
                         </li>
                     </ul>
                 </div>
